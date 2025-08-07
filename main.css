@@ -1,0 +1,28 @@
+:root{
+       --purplelightest: #c3c3c7;
+       --purplelight: #bab8d4;
+       --purpledark: #85839d;
+       --ivorylight: #e8e8e0;
+        --purplebrown: #3e363a;
+       --brownlight: #a99a91;
+}
+
+html{background-color: var(--purpledark);
+        font-family: 'ms ui gothic';
+} 
+
+/* G R I D */
+
+.main-box{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid #3e363a;
+    color: #3e363a;
+}
+.header{
+        border-bottom: 1px solid ;
+}
+.banner{
+        width:1000px;
+}
